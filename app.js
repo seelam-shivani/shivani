@@ -5,5 +5,5 @@ if(amount<10){
 }else{
     console.log('large number');
 }
-console.log('the number is');
+console.log(' number ');
 //hi
