@@ -7,3 +7,4 @@ if(amount<10){
 }
 console.log(' number is something ');
 //hi hello world
+//lalalalalalalalalalalala
