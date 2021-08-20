@@ -6,4 +6,4 @@ if(amount<10){
     console.log('large number');
 }
 console.log(' number is something ');
-//hi
+//hi hello world
